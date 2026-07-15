@@ -1,5 +1,5 @@
 # 👋 Hello, World!
-I'm Sarthak Chauhan, currently pursuing a BCA with specialization in AI/ML at Sharda University, Greater Noida, India.
+I'm Sarthak Chauhan, currently pursuing a MCA with specialization in AI/ML at UPES, Dehradun, India.
 
 I’ve actively participated in coding competitions and developer programs — I absolutely love solving problems and building things with code. I'm especially passionate about how technology shapes the world, and I’m constantly exploring new tools and ideas in the AI/ML space.
 
@@ -12,7 +12,7 @@ React • React Native • Express.js • Node.js • Nodemon • OpenCV • Ope
 TensorFlow • Keras • PyTorch • scikit-learn • mlflow • Pandas • NumPy • Matplotlib • Plotly • SciPy
 
 Databases & Backend: <br>
-MongoDB • MySQL
+MongoDB • MySQL • PostgreSQL
 
 Cloud & DevOps: <br>
 Azure • AWS • Google Cloud • Render • Git • GitHub • Windows Terminal • Postman • Power BI
